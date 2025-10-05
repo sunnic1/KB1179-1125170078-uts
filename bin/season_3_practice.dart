@@ -64,7 +64,7 @@ void main() {
     nama: "Rifqi Arip Sunni Manurung",
     nim: "111509",
     jurusan: "Informatika",
-    angkatan: 2015,
+    angkatan: 2019,
   );
   mhs1.tampilkanData();
   print("----------");
