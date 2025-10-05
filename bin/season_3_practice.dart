@@ -25,7 +25,7 @@ class Mahasiswa {
 class AsistenDosen extends Mahasiswa {
   String mataKuliah;
   AsistenDosen({
-    required supe String nama,
+    required String nama,
     required String nim,
     required String jurusan,
     required int angkatan,
